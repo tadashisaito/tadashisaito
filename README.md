@@ -6,7 +6,7 @@ Bem - vindo(a) ao meu GitHub
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@runekx_Programaça)
 
 ## Top Repositorios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=imersao-dados-python)](https://github.com/tadashisaito/imersao-dados-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=)](https://github.com/tadashisaito/imersao-dados-python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=lista_de_tarefas)](https://github.com/tadashisaito/lista_de_tarefas)
 
 ## Status
