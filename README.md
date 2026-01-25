@@ -10,6 +10,7 @@ Bem - vindo(a) ao meu GitHub
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=lista_de_tarefas)](https://github.com/tadashisaito/lista_de_tarefas)
 
+## Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tadashisaito&show_icons=true&theme=tokyonight)
 
 
@@ -23,6 +24,7 @@ Bem - vindo(a) ao meu GitHub
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 
+## Sobre mim:
 Apaixonado por tecnologia e focado em análise de dados com Python. Sempre aprendendo, explorando novas ferramentas e aprimorando habilidades em programação.
 
 ## 💻Portfolio
