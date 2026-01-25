@@ -4,7 +4,7 @@
 [![Insagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamrunekx/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@runekx_Programaça)
 
-![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=tadashisaito&show_icons=true&theme=tokyonight)
+![tadashi GitHub stats](https://github-readme-stats.vercel.app/api?username=tadashisaito&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia 
 <div style="display: inline_block"><br/>
