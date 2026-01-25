@@ -27,4 +27,4 @@ Apaixonado por tecnologia e focado em análise de dados com Python. Sempre apren
 https://imersao-dados-python-a2025.streamlit.app
 
 ## 📱 Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruancarloa.0397@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruancarlos.0397@gmail.com)
