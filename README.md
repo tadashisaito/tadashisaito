@@ -4,17 +4,24 @@
 [![Insagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamrunekx/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@runekx_Programaça)
 
-## Tecnologias que eu uso no meu dia 
-<div style="display: inline_block"><br/>
-  <img align = "center" alt ="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align = "center" alt ="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img align = "center" alt ="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img align = "center" alt ="InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
-</div><br/>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tadashisaito&show_icons=true&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=github-readme-stats)](https://github.com/tadashisaito/github-readme-stats)
+## Tecnologias que eu uso no meu dia 
+
+![Pandas](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 
 Apaixonado por tecnologia e focado em análise de dados com Python. Sempre aprendendo, explorando novas ferramentas e aprimorando habilidades em programação.
 
-## Contato
+## 💻Portfolio
+https://github.com/tadashisaito/imersao-dados-python
+
+## 📱 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruancarloa.0397@gmail.com)
