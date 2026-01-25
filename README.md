@@ -5,9 +5,13 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@runekx_Programaça)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=imersao-dados-python)](https://github.com/tadashisaito/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=lista_de_tarefas)](https://github.com/tadashisaito/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tadashisaito&show_icons=true&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=github-readme-stats)](https://github.com/tadashisaito/github-readme-stats)
+
+
 ## Tecnologias que eu uso no meu dia 
 
 ![Pandas](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
