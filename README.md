@@ -10,7 +10,7 @@ Bem - vindo(a) ao meu GitHub
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=lista_de_tarefas)](https://github.com/tadashisaito/lista_de_tarefas)
 
 ## Status
-![GitHub stats] (https://github-readme-stats.vercel.app/api?username=tadashisaito&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tadashisaito&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia 
 
