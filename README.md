@@ -7,6 +7,7 @@ Bem - vindo(a) ao meu GitHub
 
 ## Top Repositorios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=imersao-dados-python)](https://github.com/tadashisaito/imersao-dados-python)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=lista_de_tarefas)](https://github.com/tadashisaito/lista_de_tarefas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tadashisaito&repo=python-exercicios )](https://github.com/tadashisaito/python-exercicios)
 
