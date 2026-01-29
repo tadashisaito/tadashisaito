@@ -26,7 +26,7 @@ Bem - vindo(a) ao meu GitHub
 ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 
 ## Sobre mim:
-Apaixonado por tecnologia e focado em análise de dados com Python. Sempre aprendendo, explorando novas ferramentas e aprimorando habilidades em programação.
+Apaixonado por tecnologia e programação em Python. Atualmente focado em construir uma base sólida em lógica, organização de dados e desenvolvimento de projetos práticos, sempre aprendendo e evoluindo.
 
 ## 💻Portfolio
 📌  Dashboard de Análise de Dados
