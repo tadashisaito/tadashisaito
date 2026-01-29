@@ -33,4 +33,4 @@ Apaixonado por tecnologia e programação em Python. Atualmente focado em constr
 https://imersao-dados-python-a2025.streamlit.app
 
 ## 📱 Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruancarlos.0397@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp.santos.dev@gmail.com)
